@@ -1,2 +1,2 @@
 # dsa-practice
-working on dsa problems from cracking to code book and more
+working on dsa problems from cracking the code book and more
