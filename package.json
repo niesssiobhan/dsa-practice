@@ -1,0 +1,25 @@
+{
+  "name": "dsa-practice",
+  "version": "1.0.0",
+  "description": "working on dsa problems from cracking to code book and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niesssiobhan/dsa-practice.git"
+  },
+  "keywords": [
+    "dsa"
+  ],
+  "author": "siobhan niess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niesssiobhan/dsa-practice/issues"
+  },
+  "homepage": "https://github.com/niesssiobhan/dsa-practice#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
